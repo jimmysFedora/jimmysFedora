@@ -13,7 +13,7 @@
 
 **cis student @ msu denver & aspiring cloud systems engineer**
 
-*rally enthusiast • motorsport photographer • process automator • homelabber • car av systems builder • tinkerer*
+*rally enthusiast • photographer • process automator • homelabber • car stereo guy • certified tinkerer*
 
 ---
 
