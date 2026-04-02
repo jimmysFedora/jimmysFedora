@@ -1,7 +1,7 @@
 <div align="center">
 
-# hello, my name is stravis ly
-### stravis pronounced [stra-vis] and ly pronounced [lee]
+# hello, my name is stravis
+### stravis pronounced [stra-vis]
 
 [about me]() &nbsp; | &nbsp; [linkedin](https://www.linkedin.com/in/stravis-ly/) &nbsp; | &nbsp; [email](mailto:stravisly5@outlook.com)
 
@@ -11,7 +11,7 @@
 
 <br />
 
-**cis student @ msu denver & aspiring cloud systems engineer**
+**cis student @ msu denver**
 
 *rally enthusiast • photographer • process automator • homelabber • car stereo guy • certified tinkerer*
 
